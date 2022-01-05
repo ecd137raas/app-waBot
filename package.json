@@ -1,0 +1,16 @@
+{
+  "name": "app-zapbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.28.6",
+    "puppeteer": "^13.0.1"
+  }
+}
